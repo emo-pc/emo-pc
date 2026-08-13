@@ -1,6 +1,6 @@
 # Hi there, I'm Emre 👋
 
-🎓 **Second Year Computer Engineering Student** at Bogazici University  
+🎓 **Computer Engineering Student** at Bogazici University  
 💻 Passionate about **Software Development**, **Game Dev**, and **Deep Learning / AI**  
 🛠️ Working on projects in **Java**, **Python**, **C**, and **PyTorch**
 
