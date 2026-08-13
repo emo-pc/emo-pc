@@ -23,9 +23,10 @@
 
 ### 📊 GitHub Stats
 
-![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=emo-pc&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emo-pc&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=emo-pc&show_icons=true&theme=tokyonight&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emo-pc&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
 ---
 
